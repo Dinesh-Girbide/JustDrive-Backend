@@ -8,6 +8,7 @@ class JustDriveApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("Hello.Welcome to JustDrive");
 	}
 
 }
